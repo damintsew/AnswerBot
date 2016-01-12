@@ -1,0 +1,17 @@
+{
+  "name": "nutrients_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Damintsev",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.3.4",
+    "natural": "^0.2.1",
+    "node-menu": "0.0.9",
+    "node-telegram-bot-api": "^0.19.0"
+  }
+}
